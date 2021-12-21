@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @intcouture
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Deborah!
+- 👀 I’m interested in working on some amazing projects with some awesome people.
+- 🌱 I’m currently learning everything I can!
+- 💞️ I’m looking to collaborate on creating apps together.
+- 📫 How to reach me on here or on linkedin.
 
 <!---
 intcouture/intcouture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
